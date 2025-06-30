@@ -105,6 +105,7 @@ function setGame()
 
     //v=sqrt(2s)
     document.addEventListener("keydown",function(){v=Math.sqrt(2*64*g); reset()})
+    document.addEventListener("click",function(){v=Math.sqrt(2*64*g); reset()})
 
 }
 
