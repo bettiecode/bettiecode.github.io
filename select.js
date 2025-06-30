@@ -1,5 +1,5 @@
 let ids=["index","diary","anime","code"]
-let titles=["home","diary","animanga","music","programming"]
+let titles=["home","diary","animanga","programming"]
 function makeRow()
 {
     var row = document.getElementById("slctrow")
