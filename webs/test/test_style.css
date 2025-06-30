@@ -1,0 +1,86 @@
+body
+{
+    /* background-image: url("image-60.png"); */
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    background-size: cover;
+    margin: 0px;
+    text-align: center;
+    color:rgb(225, 118, 119);
+}
+h1
+{
+    color:rgb(225, 118, 119);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48;
+    font-style: bolder;
+
+    border-left-style: ridge;
+    border-left-color: crimson;
+    border-right-style: ridge;
+    border-right-color: crimson;
+
+    text-shadow: -8px 8px 8px darkred;
+    
+}
+p
+{
+    border-style: inset;
+    border-width: 4px;
+    border-color: crimson;
+    border-radius: 8px;
+    padding: 4px;
+    
+    color:rgb(225, 118, 119); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16;
+}
+.odd
+{
+   color: rgb(255, 0, 0); 
+}
+.even
+{
+   color: rgb(255, 255, 255); 
+}
+#p4
+{
+   color: teal; 
+}
+#box1
+{
+    border: 5px, solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color:cadetblue;
+    padding: 4px;
+    margin-left: auto;
+}
+#box2
+{
+    border: 5px, solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background-color:rgb(91, 0, 229);
+    padding: 4px;
+}
+a:link
+{
+    color:tomato;
+}
+a:visited
+{
+    color:gray;
+}
+a:hover
+{
+    color:blueviolet
+}
+a:active
+{
+    color:green
+}
