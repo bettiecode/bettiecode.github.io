@@ -44,7 +44,10 @@ td
 {
     margin: 0px;
 }
-
+a
+{
+    color: red;
+}
 /*ALL SUBPAGE ELEMENTS*/
 #title
 {
